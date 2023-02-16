@@ -24,6 +24,11 @@ O que foi usado neste projeto:
 
 <h2>Diagrama banco de dados</h2>
 
+<img alt="Diagrama banco de dados" src="https://github.com/kiq17/nlw-habits/blob/main/frontend/src/assests/diagramHabits.png">
+
 
 
 Importante: o datatype dos id's são varchar pois foi utilizado o UUID.
+
+
+<a href="#top">Voltar ao topo</a>

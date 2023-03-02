@@ -30,5 +30,8 @@ O que foi usado neste projeto:
 
 Importante: o datatype dos id's são varchar pois foi utilizado o UUID.
 
+<h2>Resultado do projeto</h2>
+
+<a href="https://www.youtube.com/watch?v=L4VFgyk0Zsk" target="_blank">Clique aqui para ver o vídeo</a>
 
 <a href="#top">Voltar ao topo</a>

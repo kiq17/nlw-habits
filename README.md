@@ -1,7 +1,7 @@
 <h1 align="center">Habits App</h1>
 
 ## :sparkles: Sobre ##
-Aplicação criada durante o evento NLW realizado pela Rockseat. Objetivo é desenvolver um painel onde será possivel visualizar os dias, representados por quadrados, em que foram completadas os hábitos. Foi adicionado um gráfico para que possa ser mais fácil a visualização dos hábitos completados no mês.
+Aplicação criada durante o evento NLW realizado pela Rocketseat. Objetivo é desenvolver um painel onde será possivel visualizar os dias, representados por quadrados, em que foram completadas os hábitos. Foi adicionado um gráfico para que possa ser mais fácil a visualização dos hábitos completados no mês.
 
 ## :rocket: Tecnologias ##
 
